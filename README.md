@@ -1,4 +1,4 @@
-# doomsday-p2p-apps
+# Doomsday P2P apps
 A curated list of P2P apps that works under any conditions. Just connect to a network and go...
 
 ## Apps
