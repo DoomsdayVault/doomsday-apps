@@ -15,3 +15,9 @@ A curated list of P2P apps that works under any conditions. Just connect to a ne
 * [ferment](https://github.com/mmckegg/ferment): Peer-to-peer audio sharing and streaming application. Like SoundCloud but decentralized. A mashup of ssb, webtorrent and electron.
 * [roll-call](https://github.com/mikeal/roll-call): Free and reliable audio calls for everyone w/ browser p2p.
 * [syncthing](https://github.com/syncthing/syncthing): Easy P2P File transfer
+
+## TODO
+[ ] Documentation on wifi networks creation
+[ ] Survival apps
+[ ] Search for portable apps
+[ ] Prepare a downloadable package with all these apps
