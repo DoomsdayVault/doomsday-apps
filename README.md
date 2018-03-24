@@ -30,5 +30,7 @@ A curated list of daily use and P2P apps that works under any conditions. Just c
 * [ipfsbin](https://github.com/VictorBjelkholm/ipfsbin): Run IPFS snippets
 
 
+## Random useful resources
 
-
+* [Awesome self hosted](https://github.com/Kickball/awesome-selfhosted)
+* [Apt mirror for linux hosts](https://www.youtube.com/watch?v=zjuO_HbXHyY)
