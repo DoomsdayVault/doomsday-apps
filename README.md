@@ -1,7 +1,7 @@
-# Doomsday P2P apps
+# Doomsday apps
 A curated list of P2P apps that works under any conditions. Just connect to a network and go...
 
-## Apps
+## P2P Apps
 
 * [whiteboard](https://github.com/Yhozen/whiteboard/network)
 * [friends](https://github.com/moose-team/friends): P2P chat
