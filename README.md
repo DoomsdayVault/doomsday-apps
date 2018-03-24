@@ -20,6 +20,7 @@ A curated list of daily use and P2P apps that works under any conditions. Just c
 * [friends](https://github.com/moose-team/friends): P2P chat
 * [patchwork](https://github.com/ssbc/patchwork): p2p secure messaging
 * [roll-call](https://github.com/mikeal/roll-call): Free and reliable audio calls for everyone w/ browser p2p.
+* [twister](http://twister.net.co/): Fully decentralized P2P microblogging platform.
 
 ## P2P Streaming clients
 * [webtorrent-app](https://github.com/feross/webtorrent-app): WebTorrent, the streaming torrent client. For OS X, Windows, and Linux.
