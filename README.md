@@ -3,6 +3,7 @@ A curated list of P2P apps that works under any conditions. Just connect to a ne
 
 ## P2P Full networks
 * [zeronet](https://zeronet.io/): A network that works under any circumstance.
+* [i2p](https://geti2p.net/en/): The I2P network provides strong privacy protections for communication over the Internet.
 
 ## P2P Browsers
 * [peerweb](https://github.com/retrohacker/peerweb): PeerWeb browser
