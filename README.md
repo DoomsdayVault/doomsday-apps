@@ -20,7 +20,7 @@ I've found that ratings are needed to evaluate the doomday preparedness of a spe
 
 ## P2P Browsers
 * ![beta](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/beta-batch.png) [peerweb](https://github.com/retrohacker/peerweb): PeerWeb browser
-* [beaker](https://github.com/pfraze/beaker): Decentralization tech in a browser built with electron.
+* ![2star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/2star.png) ![offgrid](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/offgrid-batch.png) [beaker](https://github.com/pfraze/beaker): Decentralization tech in a browser built with electron.
 
 ## P2P File sharing
 * ![3star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/3star.png) ![offgrid](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/offgrid-batch.png) [syncthing](https://github.com/syncthing/syncthing): Easy P2P File transfer with or without internet. You only need a network.
