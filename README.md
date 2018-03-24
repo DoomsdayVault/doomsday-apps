@@ -1,5 +1,5 @@
 # Doomsday apps
-A curated list of P2P apps that works under any conditions. Just connect to a network and go...
+A curated list of daily use and P2P apps that works under any conditions. Just connect to a network and go...
 
 ## P2P Full networks
 * ![tested](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/tested-batch.png) [zeronet](https://zeronet.io/): A network that works under any circumstance.
