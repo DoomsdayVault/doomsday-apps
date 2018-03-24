@@ -7,8 +7,8 @@ I've found that ratings are needed to evaluate the doomday preparedness of a spe
 |Rating|Meaning|
 |----|---|
 |No stars| This means that the app is in a state that needs refurbishing or UI/UX glitches|
-|![1star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/1star.png)|Better than nothing, dont fully relly on this app|
-|![2star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/2star.png)|Fully reliable but maybe glitches appears|
+|![1star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/1star.png)|You can rely on this app but expect glitches|
+|![2star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/2star.png)|Reliable but something is missing|
 |![3star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/3star.png)|Doomsday approved app|
 
 * The  ![offgrid](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/offgrid-batch.png) batch means that we've tested that the application works on any network without internet.
