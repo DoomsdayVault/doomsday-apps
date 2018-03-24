@@ -24,6 +24,7 @@ I've found that ratings are needed to evaluate the doomday preparedness of a spe
 
 ## P2P File sharing
 * ![3star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/3star.png) ![offgrid](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/offgrid-batch.png) [syncthing](https://github.com/syncthing/syncthing): Easy P2P File transfer with or without internet. You only need a network.
+* ![3star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/3star.png) ![offgrid](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/offgrid-batch.png) [Transmission](https://transmissionbt.com/): A cross-platform BitTorrent client.
 
 ## P2P Communication
 * [whiteboard](https://github.com/Yhozen/whiteboard/network)
@@ -39,7 +40,6 @@ I've found that ratings are needed to evaluate the doomday preparedness of a spe
 ## Other P2P Apps
 * [openbazaar](https://openbazaar.org/): decentralized marketplace: [reputation](https://blog.openbazaar.org/decentralized-reputation-part-2/)
 * [ipfsbin](https://github.com/VictorBjelkholm/ipfsbin): Run IPFS snippets
-
 
 ## Random useful resources
 
