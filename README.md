@@ -2,7 +2,7 @@
 A curated list of P2P apps that works under any conditions. Just connect to a network and go...
 
 ## P2P Full networks
-* [zeronet](https://zeronet.io/): A network that works under any circumstance.
+* ![tested](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/tested-batch.png) [zeronet](https://zeronet.io/): A network that works under any circumstance.
 * [i2p](https://geti2p.net/en/): The I2P network provides strong privacy protections for communication over the Internet.
 
 ## P2P Browsers
@@ -10,7 +10,7 @@ A curated list of P2P apps that works under any conditions. Just connect to a ne
 * [beaker](https://github.com/pfraze/beaker): Decentralization tech in a browser built with electron.
 
 ## P2P File sharing
-* [syncthing](https://github.com/syncthing/syncthing): Easy P2P File transfer
+* ![tested](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/tested-batch.png) [syncthing](https://github.com/syncthing/syncthing): Easy P2P File transfer
 
 ## P2P Communication
 * [whiteboard](https://github.com/Yhozen/whiteboard/network)
