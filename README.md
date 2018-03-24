@@ -6,8 +6,8 @@ I've found that ratings are needed to evaluate the doomday preparedness of a spe
 
 |Rating|Meaning|
 |----|---|
-|No stars| This means that the app is in a state that needs refurbishing or UI/UX glitches|
-|![1star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/1star.png)|You can rely on this app but expect glitches|
+|No stars| The app is not rated yet|
+|![1star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/1star.png)|This means that the app is in a state that needs refurbishing or UI/UX glitches|
 |![2star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/2star.png)|Reliable but needs more stability to be Doomsday approved|
 |![3star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/3star.png)|Doomsday approved app|
 
