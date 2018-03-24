@@ -1,8 +1,8 @@
 # Doomsday apps
 A curated list of daily use and P2P apps that works under any conditions. Just connect to a network and go...
 
-The ![tested](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/tested-batch.png) batch means that the application has been tested and works.
-The  ![offgrid](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/offgrid-batch.png) batch means that we've tested that the application works on any network without internet.
+* The ![tested](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/tested-batch.png) batch means that the application has been tested and works.
+* The  ![offgrid](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/offgrid-batch.png) batch means that we've tested that the application works on any network without internet.
 
 ## P2P Full networks
 * ![tested](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/tested-batch.png) [zeronet](https://zeronet.io/): A network that works under any circumstance.
