@@ -45,3 +45,4 @@ I've found that ratings are needed to evaluate the doomday preparedness of a spe
 
 * [Awesome self hosted](https://github.com/Kickball/awesome-selfhosted)
 * [Apt mirror for linux hosts](https://www.youtube.com/watch?v=zjuO_HbXHyY)
+* [Full stackoverflow download](https://archive.org/details/stackexchange)
