@@ -14,6 +14,9 @@ I've found that ratings are needed to evaluate the doomday preparedness of a spe
 * The  ![offgrid](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/offgrid-batch.png) batch means that we've tested that the application works on any network without internet.
 * The  ![beta](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/beta-batch.png) batch means that the project may not be relyable for the doomsday moment (Be careful).
 
+## Documentation
+* [Kiwix](https://www.kiwix.org/en/) You will be able to host offline parts of wikipedia or other interesting sites.
+
 ## P2P Full networks
 * ![2star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/2star.png) [zeronet](https://zeronet.io/): A network that works under any circumstance.
 * [i2p](https://geti2p.net/en/): The I2P network provides strong privacy protections for communication over the Internet.
