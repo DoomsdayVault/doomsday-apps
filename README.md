@@ -14,10 +14,10 @@ I've found that ratings are needed to evaluate the doomday preparedness of a spe
 * The  ![offgrid](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/offgrid-batch.png) batch means that we've tested that the application works on any network without internet.
 * The  ![beta](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/beta-batch.png) batch means that the project may not be relyable for the doomsday moment (Be careful).
 ## Offgrid communication
-* ![3star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/3star.png)![offgrid](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/offgrid-batch.png) [Briar](https://briarproject.org) is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate. If the internet’s down, Briar can sync via Bluetooth or Wi-Fi.
+* ![3star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/3star.png) ![offgrid](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/offgrid-batch.png) [Briar](https://briarproject.org) is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate. If the internet’s down, Briar can sync via Bluetooth or Wi-Fi.
 
 ## Documentation
-* ![3star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/3star.png)![offgrid](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/offgrid-batch.png) [Kiwix](https://www.kiwix.org/en/) You will be able to host offline parts of wikipedia or other interesting sites.
+* ![3star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/3star.png) ![offgrid](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/offgrid-batch.png) [Kiwix](https://www.kiwix.org/en/) You will be able to host offline parts of wikipedia or other interesting sites.
 
 ## P2P Full networks
 * ![2star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/2star.png) [zeronet](https://zeronet.io/): A network that works under any circumstance.
