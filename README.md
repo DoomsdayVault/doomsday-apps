@@ -44,6 +44,9 @@ I've found that ratings are needed to evaluate the doomday preparedness of a spe
 
 ## Other P2P Apps
 * [openbazaar](https://openbazaar.org/): decentralized marketplace: [reputation](https://blog.openbazaar.org/decentralized-reputation-part-2/)
+
+## Doomsday operating systems
+* [collapseos](https://collapseos.org/): Operating system for electronics scavenging.
 * [ipfsbin](https://github.com/VictorBjelkholm/ipfsbin): Run IPFS snippets
 
 ## Random useful resources
