@@ -34,7 +34,7 @@ I've found that ratings are needed to evaluate the doomday preparedness of a spe
 ## P2P Communication
 * [whiteboard](https://github.com/Yhozen/whiteboard/network)
 * ![2star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/2star.png) ![offgrid](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/offgrid-batch.png) [friends](https://github.com/moose-team/friends): P2P chat
-* [PyBitmessage](https://bitmessage.org/): Bitmessage is a P2P communications protocol used to send encrypted messages to another person or to many subscribers.
+* ![5star](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/5star.png) ![offgrid](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/offgrid-batch.png) [PyBitmessage](https://bitmessage.org/): Bitmessage is a P2P communications protocol used to send encrypted messages to another person or to many subscribers.
 * [patchwork](https://github.com/ssbc/patchwork): p2p secure messaging
 * [roll-call](https://github.com/mikeal/roll-call): Free and reliable audio calls for everyone w/ browser p2p.
 * ![beta](https://github.com/DoomsdayVault/doomsday-apps/blob/master/images/beta-batch.png) [twister](http://twister.net.co/): Fully decentralized P2P microblogging platform.
